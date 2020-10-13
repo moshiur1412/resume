@@ -23,6 +23,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
+        // Solved for heroku css not working -->
         if(config('app.env') === 'production') {
             \URL::forceScheme('https');
         }
