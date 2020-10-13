@@ -124,11 +124,10 @@
 			</div>
 		</div>
 		
-		<?php /*
+		
 		<div id="interests" class="container">
 			@include('sections.interests')
 		</div>
-		*/ ?>
 		
 		<div id="projects" class="container">
 			@include('sections.projects')
@@ -140,7 +139,11 @@
 			</div>
 		</div>
 		
-		@include('sections.upgrade')
+		<div class="background-gray">
+			<div id="upgrade" class="container">
+				@include('sections.upgrade')
+			</div>
+		</div>
 		
 		<!-- Bootstrap core JavaScript -->
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
