@@ -11,7 +11,7 @@
 		</p>
 	</div>
 	<div class="col-md-4 text-center">
-		<img src="{{ asset('vorsurm')}}/images/pascal_van_gemert.png" alt="Pascal van Gemert" width="246" height="246" />
+		<img src="{{ asset('vorsurm')}}/images/moshiur.png" alt="Pascal van Gemert" width="246" height="246" />
 	</div>
 	<div class="col-md-4">
 		<h3>Details</h3>
