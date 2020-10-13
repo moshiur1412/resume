@@ -9,15 +9,15 @@
 	<div class="col-md-6">
 		<ul class="no-bullets">
 			<li>
-				<a href="twitter.com/vorsurm" target="_blank">
+				<a href="https://twitter.com/vorsurm" target="_blank">
 					<span class="icon icon-twitter"></span>
-					http://twitter.com/vorsurm
+					https://twitter.com/vorsurm
 				</a>
 			</li>
 			<li>
-				<a href="linkedin.com/vorsurm" target="_blank">
+				<a href="https://www.linkedin.com/in/vorsurm" target="_blank">
 					<span class="icon icon-linkedin"></span>
-					http://linked.com/vorsurm
+					https://linkedin.com/in/vorsurm
 				</a>
 			</li>
 		</ul>
@@ -25,16 +25,16 @@
 	<div class="col-md-6">
 		<ul class="no-bullets">
 			<li>
-				<a href="javascript:void(0);">
+				<a href="skype:vorsurm?userinfo">
 					<span class="icon icon-skype"></span>
-					http::/skype.com/moshiur 
+					Link to my profile 
 				</a>
 			</li>
 			<li>
 				<a href="mailto:moshiur.rah2016@gmail.com">
 					<span class="icon icon-email"></span>
 					<span style="unicode-bidi:bidi-override;  ">
-						moshiur.rah2016@gmail.com
+						Link to my eMail
 					</span>
 				</a>
 			</li>
