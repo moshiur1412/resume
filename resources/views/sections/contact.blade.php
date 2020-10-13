@@ -25,7 +25,7 @@
 	<div class="col-md-6">
 		<ul class="no-bullets">
 			<li>
-				<a href="skype:vorsurm?action">
+				<a href="skype:vorsurm?userinfo">
 					<span class="icon icon-skype"></span>
 					Link to my profile 
 				</a>
