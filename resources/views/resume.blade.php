@@ -18,7 +18,7 @@
 	<title> MD MOSHIUR RAHMAN - Full-Stack Developer</title>
 
 	<!-- Bootstrap core CSS -->
-	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,600,700" rel="stylesheet" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,600,700" rel="stylesheet" type="text/css" />
 	<link href="{{ asset('vorsurm/') }}/css/bootstrap.min.css" rel="stylesheet" />
 	<link href="{{ asset('vorsurm')}}/style.css" rel="stylesheet" />
 
