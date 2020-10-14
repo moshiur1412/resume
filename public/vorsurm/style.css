@@ -59,7 +59,7 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 	.jumbotron .container > * { text-align: center; color: #FFFFFF; }
 	.jumbotron .container h1 { padding-bottom: 20px; border-bottom: 1px solid #FFFFFF; border-bottom-color: rgba(255,255,255,0.35); display: inline-block; }
 	.jumbotron .container .lead { font-size: 28px; }
-	.jumbotron .scroll-down { height: 100%; width: 100%; display: block; position: absolute; bottom: 0px; right: 5%; background-color: #22a39f; text-align: center; z-index: 6; }
+	.jumbotron .scroll-down { height: 80px; width: 110px; display: block; position: absolute; bottom: 0px; right: 5%; background-color: #22a39f; text-align: center; z-index: 6; }
 	.jumbotron .scroll-down .glyphicon { 
 		color: #FFFFFF; 
 		font-size: 30px; 
