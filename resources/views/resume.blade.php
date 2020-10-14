@@ -20,7 +20,7 @@
 	<!-- Bootstrap core CSS -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,600,700" rel="stylesheet" type="text/css" />
 	<link href="{{ asset('vorsurm/') }}/css/bootstrap.min.css" rel="stylesheet" />
-	<link href="{{ asset('vorsurm')}}/style.css" rel="stylesheet" />
+	<link href="{{ asset('vorsurm') }}/style.css" rel="stylesheet" />
 
 	<link rel="shortcut icon" href="{{ asset('vorsurm')}}/favicon.ico" type="image/x-icon" />
 	<link rel="icon" href="{{ asset('vorsurm')}}/favicon.ico" type="image/x-icon" />
@@ -98,7 +98,7 @@
 
 
 	<!-- Bootstrap core JavaScript -->
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script type="text/javascript" src="{{ asset('vorsurm')}}/js/script.js"></script>
 	<script type="text/javascript" src="{{ asset('vorsurm')}}/js/bootstrap.min.js"></script>
 
