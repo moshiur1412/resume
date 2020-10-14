@@ -21,16 +21,36 @@
 					<span class="glyphicon glyphicon-star filled"></span>
 				</span>
 			</li>
+			<li>
+				<span class="ability-title">CSS(3)</span>
+				<span class="ability-score">
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+				</span>
+			</li>
+			<li>
+				<span class="ability-title">Bootstrap(4)</span>
+				<span class="ability-score">
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+				</span>
+			</li>
 		</ul>
 	</div>
 
 </div>
 
+
 <div class="text-center project-referal">
 	<p>This project is build on a Laravel PHP framework.</p>
 	<a href="https://github.com/vorsurm" class="btn btn-primary" target="_blank">See project on Github</a>
 </div>
-
 <hr />
 
 
@@ -51,6 +71,16 @@
 					<span class="glyphicon glyphicon-star filled"></span>
 				</span>
 			</li>
+			<li>
+				<span class="ability-title">English (Advanced Lavel)</span>
+				<span class="ability-score">
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star"></span>
+					<span class="glyphicon glyphicon-star"></span>
+				</span>
+			</li>
 
 		</ul>
 	</div>
@@ -68,6 +98,16 @@
 	<div class="col-md-6">
 		<ul class="no-bullets">
 			<li>
+				<span class="ability-title">Git Bash (8 years) </span>
+				<span class="ability-score"> 
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+				</span>
+			</li>
+			<li>
 				<span class="ability-title">FileZilla (8 years) </span>
 				<span class="ability-score"> 
 					<span class="glyphicon glyphicon-star filled "></span>
@@ -77,7 +117,6 @@
 					<span class="glyphicon glyphicon-star filled "></span>
 				</span>
 			</li>
-
 
 
 		</ul>
