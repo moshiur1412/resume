@@ -91,8 +91,10 @@
 		@include('sections.interests')
 	</div>
 
-	<div id="projects" class="container">
-		@include('sections.projects')
+	<div class="background-white">
+		<div id="projects" class="container">
+			@include('sections.projects')
+		</div>
 	</div>
 
 	<div class="background-green">
