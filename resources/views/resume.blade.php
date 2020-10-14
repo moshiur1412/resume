@@ -33,7 +33,7 @@
 </head>
 <body data-spy="scroll" data-target="#navbar-example">	 
 
-	<div id="top" class="jumbotron" data-src="" data-position="">
+	<div id="top" class="jumbotron" data-src="" data-position="center center">
 		<div class="container">
 			<h1>Md. Moshiur Rahman</h1>
 			<p class="lead">Interactive resume</p>
