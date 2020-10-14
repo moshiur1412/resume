@@ -41,10 +41,3 @@
 		</ul>
 	</div>
 </div>
-
-<hr />
-
-<div class="text-center">
-
-	<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fvorsurm%3Fref%3Dfacebook&amp;width=120&amp;height=21&amp;colorscheme=dark&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;send=false&amp;appId=143175172374579" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px;" allowtransparency="true"></iframe>
-</div>

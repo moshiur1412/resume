@@ -59,7 +59,7 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 	.jumbotron .container > * { text-align: center; color: #FFFFFF; }
 	.jumbotron .container h1 { padding-bottom: 20px; border-bottom: 1px solid #FFFFFF; border-bottom-color: rgba(255,255,255,0.35); display: inline-block; }
 	.jumbotron .container .lead { font-size: 28px; }
-	.jumbotron .scroll-down { height: 80px; width: 110px; display: block; position: absolute; bottom: 0px; right: 5%; background-color: #222222; text-align: center; z-index: 6; }
+	.jumbotron .scroll-down { height: 80px; width: 110px; display: block; position: absolute; bottom: 0px; right: 5%; background-color: #22a39f; text-align: center; z-index: 6; }
 	.jumbotron .scroll-down .glyphicon { 
 		color: #FFFFFF; 
 		font-size: 30px; 
@@ -74,14 +74,14 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 	}
 	.jumbotron .scroll-down:hover .glyphicon { padding-top: 25px; }
 
-	.navbar  { border: 0px; background-color: #222222; position: absolute; top: 100%; right: 5%; width: 110px; z-index: 999; }
+	.navbar  { border: 0px; background-color: #22a39f; position: absolute; top: 100%; right: 5%; width: 110px; z-index: 999; }
 	.navbar .navbar-collapse { padding: 0px; max-height: none; }
 	.navbar .navbar-nav { float: none; }
 	.navbar-nav { margin: 0px; }
 	.navbar .nav > li { display: block; float: none; height: 80px; } 
 	.navbar .nav > li a { display: block;  height: 80px; text-align: center; padding-top: 30px; font-weight: 600; color: #FFFFFF; }
-	.navbar .nav > li a:hover, .navbar .nav > li a:focus { color: #999999; }
-	.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus { background: #22A39F; color: #FFFFFF; }
+	.navbar .nav > li a:hover, .navbar .nav > li a:focus { color: #333; }
+	.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus { background: #a9d5ca; color: #FFFFFF; }
 	.navbar-default .navbar-toggle:hover .icon-bar,
 	.navbar-default .navbar-toggle:focus .icon-bar { background: #222222; }
 
@@ -91,6 +91,14 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 	.background-gray { background: #434242; }
 	.container { max-width: 1280px; padding: 40px 180px; }
 
+	.btn-sp {
+		color:#333;
+		font-weight: bold;
+	}
+	button > a:hover, button> a:focus{
+		/*color:#a9d5ca;*/
+		text-decoration: none;
+	}
 	#profile .row > div { margin-bottom: 20px; }
 	#profile .row > div img { width: 100%; max-width: 246px; height: auto; }
 	

@@ -9,13 +9,13 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-	<meta name="author" content="Pascal van Gemert" />	
-	<meta name="description" content="I'm md moshiur rahman / creative programmer with good knowledge of front-end technics." />
-	<meta name="keywords" content="Moshiur Rahman, Interactive Resume, PHP programmer, Web developer, Startup, Interactive CV, Resume, CV, Whoopaa, HRMatches, Sanitairwinkel, Algorithms, PHP, MySQL, OOP" />
+	<meta name="author" content="Md. Moshiur Rahman" />	
+	<meta name="description" content="I'm Md Moshiur Rahman - Full-Stack Developer" />
+	<meta name="keywords" content="Moshiur Rahman, PHP, MySQL, OOP" />
 	<meta name="robots" content="index, follow" />
 	<meta name="revisit-after" content="14 days" />
 
-	<title>MD MOSHIUR RAHMAN - Web Developer - Interactive Resume</title>
+	<title> MD MOSHIUR RAHMAN - Full-Stack Developer</title>
 
 	<!-- Bootstrap core CSS -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,600,700" rel="stylesheet" type="text/css" />
@@ -46,32 +46,8 @@
 		<!-- End Inspectlet Embed Code -->
 	</head>
 	<body data-spy="scroll" data-target="#navbar-example">	 
-		
 
-		<!-- <div class="opl"><a href="http://onepagelove.com/pascal-van-gemert" target="_blank">pascalvangemert.nl featured on One Page Love</a></div> -->
-		
-		<?php 
-
-		// show an different picture per day, loop through array
-		$header_images = array(
-			array('source' => asset('vorsurm').'/images/hotdog_stand_animation.gif', 'position' => 'center center'),
-			array('source' => asset('vorsurm').'/images/metro_animation.gif', 'position' => 'center right'),
-			array('source' => asset('vorsurm').'/images/taxi_drive_by_animation.gif', 'position' => 'center center'),
-			array('source' => asset('vorsurm').'/images/tower_scope_animation.gif', 'position' => 'center right'),
-			array('source' => asset('vorsurm').'/images/highway_animation.gif', 'position' => 'center right'),
-			array('source' => asset('vorsurm').'/images/window_rain_animation.gif', 'position' => 'bottom right'),
-			array('source' => asset('vorsurm').'/images/coffee_animation.gif', 'position' => 'center center')
-		);
-		$current_index  = (@isset($_GET['header']) && is_numeric($_GET['header'])) ? intval($_GET['header']) : date('d') % count($header_images); // $_GET['header'] overwrites current header
-		$current_header = (@isset($header_images[$current_index])) ? $header_images[$current_index] : current($header_images);
-		
-		if(date('d-m') == '19-11')
-		{
-			$current_header = array('source' => VIEW_PATH.'images/birthday_animation.gif', 'position' => 'center center');
-		}
-		?>
-
-		<div id="top" class="jumbotron" data-src="<?= $current_header['source']; ?>" data-position="<?= $current_header['position']; ?>">
+		<div id="top" class="jumbotron" data-src="" data-position="">
 			<div class="container">
 				<h1>Md. Moshiur Rahman</h1>
 				<p class="lead">Interactive resume</p>
