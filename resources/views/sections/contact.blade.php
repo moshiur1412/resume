@@ -6,36 +6,35 @@
 <hr />
 
 <div class="row">
-	<div class="col-md-6">
+	<div class="col-md-offset-5">
 		<ul class="no-bullets">
 			<li>
 				<a href="https://twitter.com/vorsurm" target="_blank">
 					<span class="icon icon-twitter"></span>
-					https://twitter.com/vorsurm
+					
 				</a>
 			</li>
 			<li>
 				<a href="https://www.linkedin.com/in/vorsurm" target="_blank">
 					<span class="icon icon-linkedin"></span>
-					https://linkedin.com/in/vorsurm
+					
 				</a>
 			</li>
-		</ul>
-	</div>
-	<div class="col-md-6">
-		<ul class="no-bullets">
+
 			<li>
 				<a href="skype:vorsurm?userinfo">
 					<span class="icon icon-skype"></span>
-					Link to my profile 
+					
 				</a>
 			</li>
 			<li>
 				<a href="mailto:moshiur.rah2016@gmail.com">
-					<span class="icon icon-email"></span>
-					<span style="unicode-bidi:bidi-override;  ">
-						Link to my eMail
-					</span>
+					<span class="icon icon-email"></span> 
+				</a>
+			</li>
+			<li>
+				<a href="https://facebook.com/vorsurm">
+					<span class="icon icon-facebook"></span> 
 				</a>
 			</li>
 		</ul>
