@@ -32,7 +32,68 @@
 				</span>
 			</li>
 			<li>
-				<span class="ability-title">Bootstrap(4)</span>
+				<span class="ability-title">JavaScript</span>
+				<span class="ability-score">
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+				</span>
+			</li>
+			<li>
+				<span class="ability-title">Ajax</span>
+				<span class="ability-score">
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+				</span>
+			</li>
+			<li>
+				<span class="ability-title">Redis</span>
+				<span class="ability-score">
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+				</span>
+			</li>
+			<li>
+				<span class="ability-title">Vue.js</span>
+				<span class="ability-score">
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+				</span>
+			</li>
+			<li>
+				<span class="ability-title">PHP</span>
+				<span class="ability-score">
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+				</span>
+			</li>
+
+			<li>
+				<span class="ability-title">MySQL</span>
+				<span class="ability-score">
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+				</span>
+			</li>
+			<li>
+				<span class="ability-title">Laravel</span>
 				<span class="ability-score">
 					<span class="glyphicon glyphicon-star filled"></span>
 					<span class="glyphicon glyphicon-star filled"></span>
