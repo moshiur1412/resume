@@ -4,9 +4,8 @@
 </p>
 
 <hr />
-
 <div class="row">
-	<div class="col-sm-12 col-md-12 col-sm-offset-5 col-md-offset-4">
+	<div class="col-md-6 col-md-offset-3 col-sm-offset-4">
 		<ul class="no-bullets">
 			<li> 
 				<a href="https://twitter.com/vorsurm" target="_blank">
