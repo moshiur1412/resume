@@ -5,7 +5,7 @@
 
 <hr />
 <div class="row">
-	<div class="col-md-8 col-md-offset-4 col-sm-4 col-sm-offset-6">
+	<div class="col-md-8 col-md-offset-4 col-sm-offset-2">
 		<!-- <div class="social_icon"> -->
 			<ul class="no-bullets">
 				<li> 
