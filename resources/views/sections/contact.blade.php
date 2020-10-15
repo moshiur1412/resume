@@ -6,7 +6,7 @@
 <hr />
 
 <div class="row">
-	<div class="col-md-6 col-sm-12 col-md-offset-4">
+	<div class="col-sm-12 col-md-offset-8 col-md-6 col-md-offset-4">
 		<ul class="no-bullets">
 			<li>
 				<a href="https://twitter.com/vorsurm" target="_blank">
