@@ -32,6 +32,16 @@
 				</span>
 			</li>
 			<li>
+				<span class="ability-title">Bootstrap Framework</span>
+				<span class="ability-score">
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
+				</span>
+			</li>
+			<li>
 				<span class="ability-title">JavaScript</span>
 				<span class="ability-score">
 					<span class="glyphicon glyphicon-star filled"></span>
@@ -51,6 +61,11 @@
 					<span class="glyphicon glyphicon-star filled"></span>
 				</span>
 			</li>
+			
+		</ul>
+	</div>
+	<div class="col-md-6">
+		<ul class="no-bullets">
 			<li>
 				<span class="ability-title">Redis</span>
 				<span class="ability-score">
@@ -61,10 +76,6 @@
 					<span class="glyphicon glyphicon-star filled"></span>
 				</span>
 			</li>
-		</ul>
-	</div>
-	<div class="col-md-6">
-		<ul class="no-bullets">
 			<li>
 				<span class="ability-title">Vue.js</span>
 				<span class="ability-score">
