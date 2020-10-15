@@ -61,7 +61,7 @@
 		<div class="collapse navbar-collapse navbar-ex1-collapse">
 			<ul class="nav navbar-nav">
 				<li class="active"><a href="#profile">Profile</a></li>
-				<li><a href="#experiences">Experiences</a></li>
+				<li><a href="#experiences">Achieves</a></li>
 				<li><a href="#abilities">Abilities</a></li>
 				<li><a href="#interests">Interests</a></li>
 				<li><a href="#projects">Projects</a></li>
