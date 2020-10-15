@@ -6,7 +6,7 @@
 <hr />
 
 <div class="row">
-	<div class="col-md-offset-5">
+	<div class="col-md-6 col-sm-12 col-md-offset-4">
 		<ul class="no-bullets">
 			<li>
 				<a href="https://twitter.com/vorsurm" target="_blank">
@@ -31,10 +31,16 @@
 					<span class="icon icon-email"></span> 
 				</a>
 			</li>
-			
+
 			<li>
 				<a href="https://facebook.com/vorsurm" target="_blank">
 					<span class="icon icon-facebook"></span> 
+				</a>
+			</li>
+			
+			<li>
+				<a href="https://hackerrank.com/vorsurm" target="_blank">
+					<span class="icon icon-hackerrank"></span> 
 				</a>
 			</li>
 		</ul>
