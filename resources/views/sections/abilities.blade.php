@@ -61,6 +61,10 @@
 					<span class="glyphicon glyphicon-star filled"></span>
 				</span>
 			</li>
+		</ul>
+	</div>
+	<div class="col-md-6">
+		<ul class="no-bullets">
 			<li>
 				<span class="ability-title">Vue.js</span>
 				<span class="ability-score">
