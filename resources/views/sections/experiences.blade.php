@@ -33,12 +33,12 @@
 				</span>
 				<span class="experience-details">
 					<span class="location">
-						<span class="glyphicon glyphicon-map-marker"></span>London SE10 9LS, United Kingdom.
+						<span class="glyphicon glyphicon-map-marker"></span> London SE10 9LS, United Kingdom.
 					</span>
 					<span class="seperator">|</span>
 					<span class="link">
 						<span class="glyphicon glyphicon-link"></span>
-						<a href="https://www.gre.ac.uk/" target="_blank">www.gre.ac.uk</a>
+						<a href="https://www.gre.ac.uk/" target="_blank"> www.gre.ac.uk</a>
 					</span>
 				</span>
 			</p>
@@ -67,12 +67,12 @@
 				</span>
 				<span class="experience-details">
 					<span class="location">
-						<span class="glyphicon glyphicon-map-marker"></span>Manchester M20, United Kingdom.
+						<span class="glyphicon glyphicon-map-marker"></span> Manchester M20, United Kingdom.
 					</span>
 					<span class="seperator">|</span>
 					<span class="link">
 						<span class="glyphicon glyphicon-link"></span>
-						<a href="https://www.nccedu.com/qualification/level-5-diploma-computing-l5dc/" target="_blank">www.nccedu.com</a>
+						<a href="https://www.nccedu.com/qualification/level-5-diploma-computing-l5dc/" target="_blank"> www.nccedu.com</a>
 					</span>
 				</span>
 			</p>
@@ -101,12 +101,12 @@
 				</span>
 				<span class="experience-details">
 					<span class="location">
-						<span class="glyphicon glyphicon-map-marker"></span>Manchester M20, United Kingdom.
+						<span class="glyphicon glyphicon-map-marker"></span> Manchester M20, United Kingdom.
 					</span>
 					<span class="seperator">|</span>
 					<span class="link">
 						<span class="glyphicon glyphicon-link"></span>
-						<a href="https://www.nccedu.com/qualification/level-4-diploma-computing-l4dc/" target="_blank">www.nccedu.com</a>
+						<a href="https://www.nccedu.com/qualification/level-4-diploma-computing-l4dc/" target="_blank"> www.nccedu.com</a>
 					</span>
 				</span>
 			</p>
@@ -148,16 +148,16 @@
 				</span>
 				<span class="experience-details">
 					<span class="location">
-						<span class="glyphicon glyphicon-map-marker"></span>Dhaka, Bangladesh
+						<span class="glyphicon glyphicon-map-marker"></span> Dhaka, Bangladesh
 					</span>
 					<span class="seperator">|</span>
 					<span class="location">
-						<span class="glyphicon glyphicon-map-marker"></span>Tokyo, Japan
+						<span class="glyphicon glyphicon-map-marker"></span> Tokyo, Japan
 					</span>
 					<span class="seperator">|</span>
 					<span class="link">
 						<span class="glyphicon glyphicon-link"></span>
-						<a href="http://mdb.co.jp" target="_blank">mdb.co.jp</a>
+						<a href="http://mdb.co.jp" target="_blank"> mdb.co.jp</a>
 					</span>	
 				</span>
 			</p>
@@ -185,11 +185,11 @@
 				</span>
 				<span class="experience-details">
 					<span class="location">
-						<span class="glyphicon glyphicon-map-marker"></span>Dhaka, Bangladesh
+						<span class="glyphicon glyphicon-map-marker"></span> Dhaka, Bangladesh
 					</span>
 					<span class="seperator">|</span>
 					<span class="location">
-						<span class="glyphicon glyphicon-map-marker"></span>Tokyo, Japan
+						<span class="glyphicon glyphicon-map-marker"></span> Tokyo, Japan
 					</span>
 					<span class="seperator">|</span>
 					<span class="link">
@@ -223,12 +223,12 @@
 				<span class="experience-details">
 					
 					<span class="location">
-						<span class="glyphicon glyphicon-map-marker"></span>California, United States.
+						<span class="glyphicon glyphicon-map-marker"></span> California, United States.
 					</span>
 					<span class="seperator">|</span>
 					<span class="link">
 						<span class="glyphicon glyphicon-link"></span>
-						<a href="https://www.upwork.com/" target="_blank">www.upwork.com/</a>
+						<a href="https://www.upwork.com/" target="_blank"> www.upwork.com/</a>
 					</span>	
 				</span>
 			</p>
