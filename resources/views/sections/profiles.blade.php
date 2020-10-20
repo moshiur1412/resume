@@ -28,6 +28,6 @@
 	
 </div>
 <div class="text-center">
-	<p>Are you inspired? Then following the projects and talk to me for next contact</p>
+	<p>Are you inspired? Then following the projects and talk to me for the next contact.</p>
 	<button class="btn btn-warning"> <a  class="btn-sp" href="#projects"> Projects </a></button> 
 </div>
