@@ -61,7 +61,7 @@
 		<div class="collapse navbar-collapse navbar-ex1-collapse">
 			<ul class="nav navbar-nav">
 				<li class="active"><a href="#profile">Profile</a></li>
-				<li><a href="#experiences">Achieves</a></li>
+				<li><a href="#achieves">Achieves</a></li>
 				<li><a href="#abilities">Abilities</a></li>
 				<li><a href="#interests">Interests</a></li>
 				<li><a href="#projects">Projects</a></li>
@@ -72,12 +72,12 @@
 
 	<div class="background-white">
 		<div id="profile" class="container">
-			@include('sections.profiles')
+			@include('sections.profile')
 		</div>	
 	</div>	
 
-	<div id="experiences" class="container">
-		@include('sections.experiences')
+	<div id="achieves" class="container">
+		@include('sections.achieves')
 	</div>
 
 	<div class="background-white">
