@@ -19,13 +19,13 @@
 			<p>
 				<strong>Senior Software Engineer Team Lead (Full-Time)</strong>
 				<span class="hidden-phone">
-					<ol>
-						<li>Working as a programmer and directly involved in the company's static decisions</li>
-						<li> Perform code review: Refactoring, Testing, Bug/Hot fixing, and Essential Features </li>
-						<li> Manage Jira Kanban tickets: Assigning tickets for BD developers and watch pull requests </li>
-						<li>  Working as a Technical Session Head in the Dhaka office which is instructed by me </li>
-						<li> Using Tech: PHP(Laravel), JAVA(Android), MySQL, SQLite, VueJS, Bootstrap, Redis, etc. </li>
-					</ol>
+					<ul>
+						<li>Working as a programmer and involved in the company's static decisions</li>
+						<li>Perform code review such as Refactoring, Testing, Bug/Hot fixing,etc </li>
+						<li>Manage Jira tickets assigning BD developers and watch pull requests </li>
+						<li>Working as a Technical Head in the BD office which is instructed by me </li>
+						<li>Tech: PHP(Laravel), JAVA(Android), MySQL, VueJS, Bootstrap, Redis, etc. </li>
+					</ul>
 				</span>
 				<span class="experience-details">
 					<span class="location">
@@ -52,14 +52,14 @@
 		</div>
 		<div class="col-md-8">
 			<p>
-				<strong>Junior Software Engineer(Full-Time)</strong>
+				<strong>Junior Software Engineer (Full-Time)</strong>
 				<span class="hidden-phone">
 					<ul>
-						<li>Developed & Maintained Features (Web): Seminars, Recruitments, and Course-related service. </li>
-							<li>Project Done: eCommerce (3+), Survey System (2+) and Organization based products. </li>
-							<li>Android Japanese dictionary and campus-related apps developed for student’s purpose. </li>
-							<li>Worked on the PSD to HTML for pixel perfection with custom responsible CSS code. </li>
-							<li>Made a DJIT own news portal website from the stretch using redux framework through WP. </li>
+						<li>Developed and Maintained Web features of Company service. </li>
+						<li>Projects: eCommerces (3+), Survey System(2+) and Organization System.</li>
+						<li>Japanese Dictionary and Campus-related Apps developed. </li>
+						<li>Worked on the PSD2HTML for pixel perfection with custom responsible. </li>
+						<li>Made company own news portal website from the stretch using (WP).</li>
 					</ul>
 				</span>
 				<span class="experience-details">
@@ -87,16 +87,11 @@
 		</div>
 		<div class="col-md-8">
 			<p>
-				<strong>WordPress Theme Developer(Part-Time)</strong>
+				<strong>WordPress Theme Developer (Part-Time)</strong>
 				<span class="hidden-phone">
 					<ul>
-						<li>Business Accounting & Finance (15 credits) </li>
-						<li>Project Management (15 credits) </li>
-						<li>Fundamentals of Engineering Business Practice (15 credits)</li>
-						<li> Information Technology (15 credits)</li>
-						<li>Systems Thinking 1 (15 credits)</li>
-						<li>Introduction to Computer Networking (15 credits)</li>
-						<li>Engineering Professional Skills 1 (30 credits)</li>
+						<li> CMS Projects Done (10+): WordPress (Redux), PrestaShop (Vela), Supersites Customization, and SEO.</li>
+						<li>Graphics Design(20+): eCover, Logo, T-shirt Design, Image stretch, and UX/UI Design (TOP 10% Adobe CS5). </li>
 					</ul>
 				</span>
 				<span class="experience-details">
