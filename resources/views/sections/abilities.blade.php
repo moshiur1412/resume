@@ -1,6 +1,6 @@
 <h2>Abilities</h2>
 <p class="lead">
-	&ldquo;Life without knowledge is death in disguise.&rdquo;<br />- Talib Kweli
+	&ldquo;Take Account of yourself before you are taken to account. Weigh your deeds before they are weighed.&rdquo;<br />
 </p>
 
 <hr />
@@ -147,13 +147,17 @@
 					<span class="glyphicon glyphicon-star filled"></span>
 				</span>
 			</li>
+		</ul>
+	</div>
+			<div class="col-md-6">
+		<ul class="no-bullets">
 			<li>
 				<span class="ability-title">English (Advanced Lavel)</span>
 				<span class="ability-score">
 					<span class="glyphicon glyphicon-star filled"></span>
 					<span class="glyphicon glyphicon-star filled"></span>
 					<span class="glyphicon glyphicon-star filled"></span>
-					<span class="glyphicon glyphicon-star"></span>
+					<span class="glyphicon glyphicon-star filled"></span>
 					<span class="glyphicon glyphicon-star"></span>
 				</span>
 			</li>
@@ -184,7 +188,71 @@
 				</span>
 			</li>
 			<li>
-				<span class="ability-title">FileZilla (8 years) </span>
+				<span class="ability-title">Docker & Vagrant(3 Years) </span>
+				<span class="ability-score"> 
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+				</span>
+			</li>
+			<li>
+				<span class="ability-title">Jira Kanban & Scrum (5 years) </span>
+				<span class="ability-score"> 
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+				</span>
+			</li>
+			<li>
+				<span class="ability-title">Sublime & Visual Studio (8 years) </span>
+				<span class="ability-score"> 
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+				</span>
+			</li>
+		</ul>
+	</div>
+	<div class="col-md-6">
+		<ul class="no-bullets">
+			<li>
+				<span class="ability-title">AWS Services (8 years) </span>
+				<span class="ability-score"> 
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star "></span>
+					<span class="glyphicon glyphicon-star "></span>
+				</span>
+			</li>
+			<li>
+				<span class="ability-title">Apache & Nginx (8 years) </span>
+				<span class="ability-score"> 
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+				</span>
+			</li>
+			<li>
+				<span class="ability-title">Photoshop & Illustrator (8 years) </span>
+				<span class="ability-score"> 
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star filled "></span>
+					<span class="glyphicon glyphicon-star "></span>
+				</span>
+			</li>
+			<li>
+				<span class="ability-title">Ubuntu & CentOS (8 years) </span>
 				<span class="ability-score"> 
 					<span class="glyphicon glyphicon-star filled "></span>
 					<span class="glyphicon glyphicon-star filled "></span>
