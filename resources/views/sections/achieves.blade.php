@@ -13,7 +13,10 @@
 	<div class="experience row">
 		<div class="col-md-4">
 			<h4>MDB Corporation Ltd</h4>
-			<p class="experience-period"> Aug 2016 - Current (4 yrs 4 mos)</p>
+			<p class="experience-period"> Aug 2016 - Current 
+				<br>
+				({{ \Carbon\Carbon::parse('01-08-2016')->diff(\Carbon\Carbon::now())->format('%y Years, %m Months and %d Days') }} )
+			</p>
 		</div>
 		<div class="col-md-8">
 			<p>

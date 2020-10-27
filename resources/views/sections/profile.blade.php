@@ -19,7 +19,7 @@
 			<strong>Name:</strong><br />
 			Md. Moshiur Rahman<br />
 			<strong>Age:</strong><br />
-			{{ \Carbon\Carbon::parse('02-12-1992')->diff(\Carbon\Carbon::now())->format('%y years, %m monts and %d days') }} 
+			{{ \Carbon\Carbon::parse('02-12-1992')->diff(\Carbon\Carbon::now())->format('%y Years, %m Months and %d Days') }} 
 			<br />
 			<strong>Location:</strong><br />
 			Nikunja 2, Khilkhet, Dhaka-1229, Bangladesh.
