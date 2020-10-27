@@ -1,6 +1,6 @@
 <h2>Projects</h2>
 <p class="lead">
-	&ldquo;You can do anything you set your mind to.&rdquo;<br />- Benjamin Franklin
+	&ldquo;You can do anything you set your mind to.&rdquo; - Benjamin Franklin
 </p>
 
 <hr />
