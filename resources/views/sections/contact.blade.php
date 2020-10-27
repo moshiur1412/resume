@@ -1,6 +1,6 @@
 <h2>Contact</h2>
 <p class="lead">
-	&ldquo;Coming together is the beginning. Keeping together is progress. Working together is success. &rdquo; - Henry Ford
+	&ldquo;Speak only when your words are more beautiful than the silence. &rdquo;
 </p>
 
 <hr />
