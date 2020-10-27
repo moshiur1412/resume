@@ -1,7 +1,6 @@
 <h2>Achieves</h2>
 <p class="lead">
-	&ldquo; Education is a progressive discovery of our own ignorance.
-	&rdquo;<br />- Will Durant
+	&ldquo; There is no moving creature on earth but its sustenance depends on God. And He knows where it lives and where it rests. Everything is in a Clear Book. &rdquo;
 </p>
 
 <hr />
