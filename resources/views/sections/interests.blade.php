@@ -1,6 +1,6 @@
 <h2>Interests</h2>
 <p class="lead">
-	&ldquo;You can do anything you set your mind to.&rdquo;<br />- Benjamin Franklin
+	&ldquo; Kindness is a mark of faith, and whoever is not kind has not faith. &ldquo;
 </p>
 
 <hr />
@@ -12,12 +12,7 @@
 	<div class="col-md-8 interest-content">
 		<h3>Travel</h3>
 		<p>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+			Journey, Tour, Take a trip, Go on a trip, Voyage, Go on an expendition, Go on an excursion those are my words that I love so much. Because moving hasn't been enough! There's no better way to branden your viewpoint.
 		</p>
 	</div>
 	<div class="col-md-4 right">
@@ -25,13 +20,8 @@
 	</div>
 	<div class="col-md-8 interest-content">
 		<h3>Sports</h3>
-		<p>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		<p class="text-justify">
+			Cycling, Cricket and Football are my favorite sports to played in my life. I played in my village, school and college life and it continues to be one of the best way to make friends with the improves the health.
 		</p>
 	</div>
 </div>
