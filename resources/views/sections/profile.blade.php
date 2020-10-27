@@ -1,7 +1,10 @@
 <h2>Profile</h2>
-<p class="lead">I&#039;m a creative PHP web developer</p>
+<p class="lead">
 
-<hr />
+	&ldquo;Be like a diamond, precious and rare, not like a stone, found everywhere.&rdquo;<br />
+	</p>
+	
+<hr/>
 
 <div class="row">
 	<div class="col-md-4">
