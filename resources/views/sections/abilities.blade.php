@@ -124,7 +124,7 @@
 
 
 <div class="text-center project-referal">
-	<p>This project is build on a Laravel PHP framework.</p>
+	<p>This interactive resume is build on a Laravel PHP framework.</p>
 	<a href="https://github.com/vorsurm" class="btn btn-primary" target="_blank">See project on Github</a>
 </div>
 <hr />
