@@ -12,13 +12,13 @@
 
 	<div class="col-md-6 col-sm-12 col-xs-12">
 		<figure class="effect">
-			<img src="{{asset('vorsurm')}}/images/project_soap.jpg" alt="Project Soap" />
+			<img src="{{asset('vorsurm')}}/images/project_e_commerce.jpg" alt="Project eCommerce" />
 
 			<figcaption>
-				<h3>SoAP-Den Bosch</h3>
-				<p>Build the websiet of the local barbership</p>
-				<p><strong>Tags:</strong> <br />Design, Development, Bootstrap, Wordpress</p>
-				<a href="http://www.vorsurm.com" target="_blank">View more</a>
+				<h3>Laravel eCommerce Project</h3>
+				<p>Build the website of the local business</p>
+				<p><strong>Tags:</strong> <br />Full-Stack Development, Bootstrap, Laravel</p>
+				<a href="http://www.laravel-e-commerce.herokuapp.com" target="_blank">View more</a>
 				<span class="icon">
 					<span class="glyphicon glyphicon-new-window"></span>
 				</span>
