@@ -18,7 +18,7 @@
 				<h3>Laravel eCommerce Project</h3>
 				<p>Build the website of the local business</p>
 				<p><strong>Tags:</strong> <br />Full-Stack Development, Bootstrap, Laravel</p>
-				<a href="http://www.laravel-e-commerce.herokuapp.com/" target="_blank">View more</a>
+				<a href="https://laravel-e-commerce.herokuapp.com" target="_blank">View more</a>
 				<span class="icon">
 					<span class="glyphicon glyphicon-new-window"></span>
 				</span>
