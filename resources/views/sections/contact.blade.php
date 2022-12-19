@@ -15,7 +15,7 @@
 				</li>
 
 				<li>
-					<a href="https://www.linkedin.com/in/vorsurm" target="_blank">
+					<a href="https://www.linkedin.com/in/moshiur1412" target="_blank">
 						<span class="icon icon-linkedin"></span>
 					</a>
 				</li>
